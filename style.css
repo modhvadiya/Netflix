@@ -133,6 +133,7 @@ input{
     border-radius: 4px;
     background-color: rgba(23, 23, 23, 0.5);
     border: 0.02px solid rgba(246, 246, 246, 0.348);
+    margin: 10px 0px;
 }
 
 input::placeholder{
